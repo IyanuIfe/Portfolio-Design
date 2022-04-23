@@ -1,0 +1,78 @@
+body{
+    background-color: maroon;
+}
+#name{
+    color: darkkhaki;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-weight: bold;
+    position: relative;
+    bottom: -20px;
+    font-size: 20px;
+}
+#ife{
+    color: white;
+    font-family:'monospace';
+    margin-left: 100px;
+    font-size: 30px;
+    font-weight: lighter;
+    position: relative;
+    bottom: 5px;
+}
+
+#design{
+    color: bisque;
+    margin-left: 100px;
+    white-space: pre;
+    font-size: 22px;
+    font-weight: lighter;
+    position: relative;
+    bottom: 40px;
+    letter-spacing: 1px;
+    font-style: italic;
+}
+
+/* #above{
+    border-color: mediumaquamarine;
+    border: 20px;
+    font-size: 100px;
+} */
+
+#hi{
+    width: 700px;
+    height: 300px;
+    background-color: firebrick;
+    margin: auto;
+    
+}
+
+#href{
+    padding: 20px;
+    text-align: right;
+    word-spacing: 12px;
+    
+}
+
+#image{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+}
+#developer{
+    white-space: pre;
+    margin-left: 52px;
+    font-size: 16px;
+    font-weight: lighter;
+    position: relative;
+    bottom: 60px;
+    color: darkkhaki;
+}
+
+#check{
+color: skyblue;
+margin-left:100px ;
+position: relative;
+top: 150px;
+
+}
